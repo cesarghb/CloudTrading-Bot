@@ -1,0 +1,2 @@
+# CloudTrading-Bot
+Programa de referidos: Puedes generar dinero invitandoa amigos a nuestro bot. Gana  0.00000500 ฿ por cada persona registrada directo al balance de tu cuenta y 20% de comision por cada inversion que realice. Tu enlace de referido: https://t.me/CloudTradingbot?start=2al Telegram CloudTrading bot Bitcoin bot focused exclusively on Forex trading. We offer a daily 2.5% - 10% profit :chart_with_upwards_trend: on your investment lifetime long.
